@@ -46,6 +46,6 @@ try:
 except KeyboardInterrupt:
 	print("\n Exiting..")
 except socket.gaierror:
-	pritn("Hostname Could Not be Resolved (Check DNS Configuration)")
+	pritn("\n Hostname Could Not be Resolved (Check DNS Configuration)")
 except socket.error:
-	print("Server Offline")
+	print("\n Server Offline")
