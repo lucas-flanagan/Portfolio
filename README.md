@@ -1,4 +1,4 @@
-# Lucas Flanagan - Projects & Tools
+# 0xFub4r - Projects & Tools
 
 PortScanner.py
 * Network recon tool. Scans a host for open ports via Python socket API using TCP connections.
